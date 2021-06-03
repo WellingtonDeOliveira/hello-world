@@ -4,6 +4,7 @@ Como em qualquer outra linguagem/ferramenta, usar o "hello world" é essencial p
 Pequenos ajustes foram necessarios para meu aprendizado.
 
 Java: 
+
 public class Inicio {
 
     public static void main(String[] args) {
